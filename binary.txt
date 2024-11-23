@@ -1,0 +1,6 @@
+i123
+f3.14
+c65
+sHello, world!\n
+z5
+
